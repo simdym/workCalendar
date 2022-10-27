@@ -1,0 +1,8 @@
+﻿  main.cpp
+  dateTime.cpp
+  workdayCalendar.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 136 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  workdayCalendar.vcxproj -> C:\Users\simen\Documents\NTNU\Jobbsøking\Cardiaccs\Cardiaccs-cpp-test\Release\workdayCalendar.exe

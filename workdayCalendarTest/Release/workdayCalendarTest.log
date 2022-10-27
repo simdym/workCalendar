@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  test.cpp
+test.obj : error LNK2019: unresolved external symbol "bool __cdecl isLeapYear(int)" (?isLeapYear@@YA_NH@Z) referenced in function _main
+C:\Users\simen\Documents\NTNU\Jobbsøking\Cardiaccs\Cardiaccs-cpp-test\Release\workdayCalendarTest.exe : fatal error LNK1120: 1 unresolved externals

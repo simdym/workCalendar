@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\simen\Documents\NTNU\Jobbsøking\Cardiaccs\Cardiaccs-cpp-test\packages\Microsoft.googletest.v140.windesktop.msvcstl.static.rt-dyn.1.8.1.6\build\native\include\gtest\internal\</FILEPATH>
+      <FILENAME>gtest-port.h</FILENAME>
+      <LINE>1804</LINE>
+      <COLUMN>2</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'testing::internal::Mutex::type_' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>testing::internal::Mutex::{ctor}</FUNCTION>
+    <DECORATED>??0Mutex@internal@testing@@QEAA@W4StaticConstructorSelector@012@@Z</DECORATED>
+    <FUNCLINE>1804</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>testing::internal::Mutex::type_</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\simen\Documents\NTNU\Jobbsøking\Cardiaccs\Cardiaccs-cpp-test\packages\Microsoft.googletest.v140.windesktop.msvcstl.static.rt-dyn.1.8.1.6\build\native\include\gtest\internal\</FILEPATH>
+      <FILENAME>gtest-port.h</FILENAME>
+      <LINE>1804</LINE>
+      <COLUMN>2</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'testing::internal::Mutex::critical_section_' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>testing::internal::Mutex::{ctor}</FUNCTION>
+    <DECORATED>??0Mutex@internal@testing@@QEAA@W4StaticConstructorSelector@012@@Z</DECORATED>
+    <FUNCLINE>1804</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>testing::internal::Mutex::critical_section_</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\simen\Documents\NTNU\Jobbsøking\Cardiaccs\Cardiaccs-cpp-test\packages\Microsoft.googletest.v140.windesktop.msvcstl.static.rt-dyn.1.8.1.6\build\native\include\gtest\internal\</FILEPATH>
+      <FILENAME>gtest-port.h</FILENAME>
+      <LINE>1804</LINE>
+      <COLUMN>2</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'testing::internal::Mutex::critical_section_init_phase_' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>testing::internal::Mutex::{ctor}</FUNCTION>
+    <DECORATED>??0Mutex@internal@testing@@QEAA@W4StaticConstructorSelector@012@@Z</DECORATED>
+    <FUNCLINE>1804</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>testing::internal::Mutex::critical_section_init_phase_</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\simen\Documents\NTNU\Jobbsøking\Cardiaccs\Cardiaccs-cpp-test\packages\Microsoft.googletest.v140.windesktop.msvcstl.static.rt-dyn.1.8.1.6\build\native\include\gtest\internal\</FILEPATH>
+      <FILENAME>gtest-port.h</FILENAME>
+      <LINE>1804</LINE>
+      <COLUMN>2</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'testing::internal::Mutex::owner_thread_id_' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>testing::internal::Mutex::{ctor}</FUNCTION>
+    <DECORATED>??0Mutex@internal@testing@@QEAA@W4StaticConstructorSelector@012@@Z</DECORATED>
+    <FUNCLINE>1804</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>testing::internal::Mutex::owner_thread_id_</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

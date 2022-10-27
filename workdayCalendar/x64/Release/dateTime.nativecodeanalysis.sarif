@@ -1,0 +1,51 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.33.31630.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///c:/users/simen/documents/ntnu/jobbsøking/cardiaccs/cardiaccs-cpp-test/workdaycalendar/datetime.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "41a7405796b53d769ba6221ba966bdb6a12d99b3d0c850f816a5c098dc83de33"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/simen/documents/ntnu/jobbsøking/cardiaccs/cardiaccs-cpp-test/workdaycalendar/datetime.h"
+          },
+          "hashes": {
+            "sha-256": "5f26c04632cdedea3411124360d915ef757c0ab80a25b44c04057f5f85f042fa"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/simen/documents/ntnu/jobbsøking/cardiaccs/cardiaccs-cpp-test/workdaycalendar/duration.h"
+          },
+          "hashes": {
+            "sha-256": "46333680bac0f8cebc0c89de912b34da75f4d40851ac537d4d4068347674a35a"
+          }
+        }
+      ]
+    }
+  ]
+}
